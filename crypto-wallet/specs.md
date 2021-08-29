@@ -1,5 +1,5 @@
 ## Purpose
-Create a command line interface of a publicly downloadable desktop wallet with the following features. (Note: I still need to dockerize the project.)
+Create a command line interface of a publicly downloadable desktop wallet with the following features. ([Docker image available on this dockerhub repo](https://hub.docker.com/repository/docker/christineabc/python-wallet).)
 
 ## Features
 1. Generates asymmetric keys 
